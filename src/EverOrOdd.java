@@ -6,10 +6,10 @@ public class EverOrOdd {
         System.out.print("Enter a number : ");
         int Number = sc.nextInt();
         if(Number % 2 == 0){
-            System.out.println("is a prime Number");
+            System.out.println("is a Even Number");
         }
         else{
-            System.out.println("Not a prime");
+            System.out.println("is Odd NUmber");
         }
     }
 
