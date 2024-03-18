@@ -9,7 +9,7 @@ public class EverOrOdd {
             System.out.println("is a Even Number");
         }
         else{
-            System.out.println("is Odd NUmber");
+            System.out.println("is an Odd NUmber");
         }
     }
 
