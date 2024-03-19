@@ -24,3 +24,4 @@ DAY 2
 8. Simple Calculator Program
 9. Calculate the Sum of Numbers up to a Given Number
 10. Check whether a character is Vowel or Consonant
+11. Develop a program to simulate a simple banking system with functionalities like account creation, deposit, withdrawal, and balance inquiry.
