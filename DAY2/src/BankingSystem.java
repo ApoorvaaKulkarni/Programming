@@ -28,6 +28,9 @@ public class BankingSystem {
         balance = (long) (balance + amount);
         System.out.println("Amount Deposited");
     }
+    public void Balance(){
+        System.out.println("Your Account Balance is :" + balance);
+    }
     public void WithDrawMoney(){
         double amount;
         System.out.print("Enter amount to withdraw : ");
@@ -50,5 +53,6 @@ class Bank{
         b.DisplayDetails();
         b.DepositMoney();
         b.WithDrawMoney();
+        b.Balance();
     }
 }
