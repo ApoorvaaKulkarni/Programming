@@ -1,5 +1,5 @@
 DAY 1 
-1. Fcatorial of a number
+1. Factorial of a number
 2. Check for Divisibility
 3. Check if the number is Even or Odd
 4. Largest of three numbers
@@ -11,3 +11,4 @@ DAY 1
 10. Sum of even and odd
 11. Swapping of two numbers
 12. Swapping using the addition method
+13. Largest element in an array
