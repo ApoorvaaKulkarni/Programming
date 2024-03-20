@@ -25,3 +25,15 @@ DAY 2
 9. Calculate the Sum of Numbers up to a Given Number
 10. Check whether a character is Vowel or Consonant
 11. Develop a program to simulate a simple banking system with functionalities like account creation, deposit, withdrawal, and balance inquiry.
+
+DAY 3
+1. Compare if Arrays are equal or not.
+2. Convert the string into Upper case or Lower case.
+3. Count the duplicate elements in an Array.
+4. Print Maximum and minimum elements in an Array.
+5. Write a program that allows users to register for an event by providing their details, It should prompt the user to enter the number of users to register and then collect information such as name, age, and email for each user.
+6. Reverse elements in an Array.
+7. Reverse a String.
+8. Check whether strings are Anagrams.
+9. Check whether a given String is Palindrome.
+10. Program to calculate the percentage of students.
