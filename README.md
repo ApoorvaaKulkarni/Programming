@@ -49,3 +49,30 @@ DAY4
 8.HashSet using the Set interface
 9.TreeSet using the Set interface
 10. Priority Queue in Reverse order using comparator interface
+
+DAY5
+1.Convert ArrayList to Array
+2.Convert Array to ArrayList
+3.Convert Array to ArrayList using collections addAll method
+4.convert Array to ArrayList using ArrayList addall method
+5.Convert Map keys to list
+6.Convert Map values to list
+7.Convert HashMap to ArrayList
+8.Insert elements in ArrayList
+9.Creating HashMap using Map 
+10. Retrieve elements from ArrayList
+11. Retrieve SubList from ArrayList
+
+DAY6
+1. Generalise for loop code in ArrayList
+2. print numbers using conditional break
+3. Skip even numbers in a number series 
+4. Skip even numbers Skip even numbers in Fibonacci Series
+5. Skip multiples of 3
+6. Skip multiples of 5 and 3
+7. Skip Prime numbers
+8.Skip Upper case in a string
+9. Skip Vowels in a String
+10. Sum of Array using for each loop
+11. Convert character into charArray
+
