@@ -76,3 +76,33 @@ DAY6
 10. Sum of Array using for each loop
 11. Convert character into charArray
 
+DAY7
+Increment/Decrement
+1. Increment Byte value
+2. Character multiplication
+3. Increment Zero character
+For loop 
+4. Increment twice
+5. Prnit infinite values
+6. multiplication table
+7. Print string 
+8. Increment value using while loop
+9. Fibonacci series using for each loop
+String 
+10. Compare values of Strings
+11. Compare References of Strings
+12. Compare values and references of strings using concatenation
+
+DAY8
+1. Write a Java program to create a class called Animal with a method called makeSound(). Create a subclass called Cat that overrides the makeSound() method to bark.
+2. Write a Java program to create a class called Vehicle with a method called drive(). Create a subclass called Car that overrides the drive() method to print "Repairing a car".
+3. Write a Java program to create a class called Employee with methods called work() and getSalary(). Create a subclass called HRManager that overrides the work() method and adds a new method called addEmployee().
+4. Write a Java program to create a class known as "BankAccount" with methods called deposit() and withdraw(). Create a subclass called SavingsAccount that overrides the withdraw() method to prevent withdrawals if the account balance falls below one hundred.
+5. Write a Java program to create a class called Animal with a method named move(). Create a subclass called Cheetah that overrides the move() method to run.
+6. Write a Java program to create a class known as Person with methods called getFirstName() and getLastName(). Create a subclass called Employee that adds a new method named getEmployeeId() and overrides the getLastName() method to include the employee's job title.
+7. Write a Java program to create a class called Shape with methods called getPerimeter() and getArea(). Create a subclass called Circle that overrides the getPerimeter() and getArea() methods to calculate the area and perimeter of a circle.
+8. Write java program to create a class called Test comprising constructors, create subclasses using parameterized constructors and default constructors using super() method and this() method
+9. Write java program to create test class and its behaviors using constructor chaining
+10. Implement a Java program that models different types of planes. Define a Plane class with nested subclasses for CargoPlanes, PassengerPlanes, and FighterPlanes. Each subclass should inherit methods like takeoff(), fly(), and land(), with additional functionalities specific to the plane type. In the main method, create instances of each plane type and demonstrate their functionalities.
+
+
