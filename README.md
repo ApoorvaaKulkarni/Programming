@@ -105,4 +105,16 @@ DAY8
 9. Write java program to create test class and its behaviors using constructor chaining
 10. Implement a Java program that models different types of planes. Define a Plane class with nested subclasses for CargoPlanes, PassengerPlanes, and FighterPlanes. Each subclass should inherit methods like takeoff(), fly(), and land(), with additional functionalities specific to the plane type. In the main method, create instances of each plane type and demonstrate their functionalities.
 
+DAY9 
+Abstraction 
+1. Java program that demonstrates abstraction through an abstract class "Animal" with subclasses "Dog" and "Cat", Ensure the program includes constructors for initializing the animal's name, abstract methods for making sounds, and demonstrates the use of inheritance and polymorphism by creating instances of both "Dog" and "Cat" and invoking their respective "makeSound()" methods.
+2. Java program illustrating the concept of abstraction using an abstract class "Shape" with subclasses "Circle" and "Rectangle", Ensure the program includes constructors for initializing shape attributes, abstract methods for calculating area, and overrides for the "toString()" method to provide shape details. Demonstrate the program by creating instances of both "Circle" and "Rectangle" and printing their respective details.
+3. Write a program for whether a number is Amstrong
+4. Capitalize First letter of a string
+5. Print the index value of the given digit in a number
+6. Find the square of a number
+7. Find the square root of a number
+8. Calculate the power of a number by taking input from the user for the base number and the exponent.
+9. Remove special characters from a string 
+10. Sort an Array in ascending order.
 
