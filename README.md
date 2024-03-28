@@ -118,3 +118,17 @@ Abstraction
 9. Remove special characters from a string 
 10. Sort an Array in ascending order.
 
+DAY10
+1. Check if a number ends with 7 or a given single-digit integer
+2. Check if a number ends with 53 or a given double-digit integer
+3. Check if the last digit ends with zero
+4. Print multiplication table
+5. Print only an even number
+6. Print numbers in reverse until a given number.
+7. Print a string if the number is multiple of a given integer.
+8. Print specified index element in an array
+9. Check if a number is three-digit
+10. Check if a number is two digits or not 
+11. print a new array from an existing array by adding adjacent elements in it.
+12. print a new array from an existing array by multiplying 4 elements only: 2,5,1,4,3 > 60,24,120,30,40
+13. Find the occurrence of an element in an array
