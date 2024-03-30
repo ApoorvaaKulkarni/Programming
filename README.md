@@ -132,3 +132,34 @@ DAY10
 11. print a new array from an existing array by adding adjacent elements in it.
 12. print a new array from an existing array by multiplying 4 elements only: 2,5,1,4,3 > 60,24,120,30,40
 13. Find the occurrence of an element in an array
+
+DAY11
+POLYMORPHISM: 
+1. Write a Java program to create a base class Animal (Animal Family) with a method called Sound(). Create two subclasses Bird and Cat. Override the Sound() method in each subclass to make a specific sound for each animal.
+2. Write a Java program to create a class Vehicle with a method called speedUp(). Create two subclasses Car and Bicycle. Override the speedUp() method in each subclass to increase the vehicle's speed differently.
+3.Code reusability in polymorphism
+4.Write a Java program defining a Vehicle class with subclasses Car and Bicycle. The Vehicle class contains a method speedUp() The Car and Bicycle class overrides the speedUp() method.
+5.Down Casting in polymorphism
+6.Polymorphism using interface
+7.Polymorphism using method overloading
+ARRAYLIST
+8.Convert arraylist to string
+9.Check if two array list are equal 
+10.Multiply two array list
+11.Retain comman elements in array list
+12. Reverse array list using collections
+13. Reverse array list without using collections
+14.sort array list
+
+DAY12
+HASHMAP
+1.Different ways of creating HashMap
+2.Access only key sets
+3.check if key exists or not
+4.Increment values using for loop in HashMap
+5.Calculate maximum value
+6.Check if duplicates are allowed.
+7.Remove key value using for loop
+8.Retrieve specified key value using for loop
+9. calculate sum of values
+10.Synchronized HashMap
