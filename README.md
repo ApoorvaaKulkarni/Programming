@@ -163,3 +163,16 @@ HASHMAP
 8.Retrieve specified key value using for loop
 9. calculate sum of values
 10.Synchronized HashMap
+
+DAY13 
+1.Create Hashset 
+2.Write a Java code snippet that utilizes a HashSet within the BookDetails class to store unique instances of Book objects and subsequently prints out their details.
+3. Check if elements are present in set
+4. Check if Hashsets are equal
+5. Convert Hashset into hashcode
+6. Convert HashSet to ArrayList
+7. Convert HashSet to Multidimensional Array
+8. Remove elements from HashSet
+9. Intersection of Hashsets
+10. Print subset of two Hashset
+11. Union of HashSet
