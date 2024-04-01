@@ -176,3 +176,16 @@ DAY13
 9. Intersection of Hashsets
 10. Print subset of two Hashset
 11. Union of HashSet
+
+DAY14
+1.Create a treeset
+2.print sum of even using treeset
+3.Sorted Treeset using headset ,tailset and subset
+4.Reverse Treeset
+5.Print First and Last element in a treeset
+6.print distinct elements in a treeset
+7.iterate treeset
+8.print sorted set
+9.print sorted words
+10.Add two treeset
+11.kth Smallest Element: Given an array of integers, find the kth smallest element in the array.
