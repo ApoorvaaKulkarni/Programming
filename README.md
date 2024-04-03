@@ -189,3 +189,19 @@ DAY14
 9.print sorted words
 10.Add two treeset
 11.kth Smallest Element: Given an array of integers, find the kth smallest element in the array.
+
+DAY16 : JDBC
+
+1. Data Validation and Exception Handling-
+
+Design a Java application that performs data validation and exception handling in JDBC operations. Validate user input for database operations such as inserting new records or updating existing records. Handle exceptions such as SQL exceptions and connection errors gracefully.
+
+2.Implement a Java program that uses prepared statements to insert records into a database table. Prompt the user to enter employee details such as name, age, and department, and insert the data into the database using prepared statements.
+
+ Parameterized Query:-
+
+3.Create a Java application to retrieve employee details from a database based on user input. Allow the user to enter the employee ID and display the corresponding employee information using a parameterized query.
+
+4.Basic Connection and Querying: Write a Java program using JDBC to connect to a MySQL database. Fetch and display all records from a table named "employees" and show the result in the console. Handle exceptions appropriately.
+
+
