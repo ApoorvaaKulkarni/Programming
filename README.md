@@ -205,3 +205,11 @@ Design a Java application that performs data validation and exception handling i
 4.Basic Connection and Querying: Write a Java program using JDBC to connect to a MySQL database. Fetch and display all records from a table named "employees" and show the result in the console. Handle exceptions appropriately.
 
 
+DAY 17
+Student Management System with Spring Boot and JPA 
+Entity mapping: I created an entity class, Student, and annotated it with @Entity to map it to a database table.
+Repository interface: I utilized Spring Data JPA by extending the JpaRepository interface in the Repo interface to perform CRUD operations on the Student entity.
+Service layer: I designed a service interface, studentService, defining methods for managing student data, and implemented it in the StudentServiceimpl class to interact with JPA repositories.
+Configuration: I configured the Spring Boot application in the StudentTaskApplication class to leverage JPA for ORM and database operations.
+
+
