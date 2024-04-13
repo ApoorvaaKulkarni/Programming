@@ -234,3 +234,29 @@ DAY 19
 19. Swapping of a number
 20. Check if a letter is vowel or not
 
+DAY20
+1.Went through java servlet
+2. wrote junit test cases for these programs
+
+ 1. swap numbers using variable
+ 2. Swap numbers using Arithmetic operation
+ 3. Prime number
+ 4. Remove white spaces in a string
+ 5. Reverse a string 
+ 6. Sort an Array
+ 7. Sort an Array without using sort built in method
+ 8. Fibonacci series
+ 9. Fcatorial of a number
+ 10. Check if a vowel is present
+
+DAY 21
+1. Sort an Array using bubble sort
+2. print common elements present in two arrays
+3. Count consecutive ones in an aray
+4. Count occurance of element in an array 
+5. Print only distinct elements in an array
+6. Print the index of an element present in an array
+7. Find the repeating element in an array
+8. print the missing element in an array 
+9. Move zeroes in an array to the corner
+10. Remove duplicates from an array
