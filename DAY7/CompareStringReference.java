@@ -2,8 +2,8 @@ public class CompareStringReference {
     public static void main(String[] args) {
         String s1 = "JAVA";
         String s2 = "JAVA";
-        //when strings are creating using String variable initialization then such Strings are stored in constant pool of heap memory,
-        //in constant pool duplicate values are not allowed, in such cases values are referred to same address values
+        //when strings are created using String variable initialization then such Strings are stored in a constant pool of heap memory,
+        //in constant pool duplicate values are not allowed, in such cases, values are referred to the same address values
         // if address value of s1 is 2000 then s2 value address value will be 2000 itself.
         if(s1 == s2){
             System.out.println("References are equal");
