@@ -260,3 +260,34 @@ DAY 21
 8. print the missing element in an array 
 9. Move zeroes in an array to the corner
 10. Remove duplicates from an array
+
+   April 30
+
+1. Find common elements between two arrays and three arrays using hashset
+2. Find first and last position of a given element in an array
+3. Find the pair of element in an array for a given sum {1,2,3,4,5,6,7} : 9
+4. Rotate an array k times
+5. Sort the even elements to left corner of an array 
+6. Segregate ones and zeros to different corners of an array
+7. Find the maximum difference between two elements in an array where larger ele appears after smaller one. 
+8. Find second largest element in an array with sorting and without sorting
+9. Find the elements which have appeared k most times in array using hashmap and list.
+
+
+
+
+MAY 1
+
+1. Write a Java program that reverses all odd-length words in a string.
+2.Write a Java program to count the number of characters (alphanumeric only) that occur more than twice in a given string
+3. Write a Java program that removes a specified word from given text. Return the updated string..
+4. Write a Java program to check whether there are two consecutive (following each other continuously), identical letters in a given string.
+5.Write a Java program to count the occurrences of a given string in another given string.
+6.Write a Java program to sort in ascending and descending order by the length of the given array of strings
+7.Write a Java program to create a new string after removing a specified character from a given string. This is except the first and last position.
+8.Write a Java program to return a string where every appearance of the lowercase word 'is' has been replaced with 'is not'.
+
+9.Write a Java program to read a given string and return the string without the first or last characters if they are the same, otherwise return the string without the characters.
+
+10.Write a Java program to check whether the first two characters appear at the end of a given string
+
